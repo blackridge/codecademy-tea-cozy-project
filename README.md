@@ -1,2 +1,1 @@
-# codecademy-tea-cozy-project
-Codecademy Flexbox project
+Codecademy Flexbox project: Tea Cozy website
